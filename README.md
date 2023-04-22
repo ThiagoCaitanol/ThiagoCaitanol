@@ -1,7 +1,7 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=1E90FF&height=120&section=header"/>
 
 # 💫 About Me:
-Olá, meu nome é Thiago e sou um desenvolvedor Back-End com habilidades em front-end e back-end (Java e Spring Boot). Estou disponível para trabalho e em busca de novas oportunidades de aprendizado e crescimento profissional. Atualmente, estou aprendendo Angular para me tornar um desenvolvedor fullstack e ampliar meu conjunto de ferramentas. Você pode ver alguns dos meus trabalhos no meu GitHub.
+Olá, meu nome é Thiago e sou um desenvolvedor Back-End (Java e Spring Boot). Estou disponível para trabalho e em busca de novas oportunidades de aprendizado e crescimento profissional. Atualmente, estou aprendendo Angular para me tornar um desenvolvedor fullstack e ampliar meu conjunto de ferramentas. Você pode ver alguns dos meus trabalhos no meu GitHub.
 
 
 ## 🌐 Socials:
